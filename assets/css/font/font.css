@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'SF Atarian System Bold';
+  src: url('SF Atarian System Bold.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'SFAtarianSystem-Bold';
+  src: url('SFAtarianSystem-Bold.woff') format('woff'),
+       url('SFAtarianSystem-Bold.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'seagle';
+  src: url('seagle.woff2') format('woff2'),
+  url('seagle.woff') format('woff'),
+  url('seagle.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
